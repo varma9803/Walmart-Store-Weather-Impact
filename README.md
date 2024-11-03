@@ -6,7 +6,7 @@ This project aims to map Walmart locations across the USA with real-time and fut
 **Data Preprocessing & Transformation:** Clean, transform, and preprocess weather data, categorizing it into defined impact levels.  
 **Training & Testing:** Train a predictive model using current weather data to forecast impact levels and alerts.  
 **Future Weather Impact Prediction:** Test future weather data against the trained model to classify impact levels and generate alerts.  
-**Visualization:** Plot Walmart locations with impact levels on an interactive map to visualize real-time and forecasted weather effects.  
+**Visualization:** Plot Walmart locations with impact levels on an interactive map to visualize current and forecasted weather effects.  
 
 # File Descriptions
 ## Notebooks & Code
